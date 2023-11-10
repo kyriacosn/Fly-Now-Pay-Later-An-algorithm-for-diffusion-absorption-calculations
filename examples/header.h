@@ -1,0 +1,8 @@
+#include "../src/settings.h"
+#include "../src/sources/uniform_source.h"
+#include "../src/sources/point_source.h"
+#include "../src/bodies/Ellipsoid.h"
+#include "../src/bodies/Sphere.h"
+#include "../src/bodies/Spherocylinder.h"
+#include "../src/Samplers/sampler.h"
+#include "../src/simulation.h"
